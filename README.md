@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Food order app**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js, Redux**
 
 - 📫 How to reach me **anas4engg@gmail.com**
 
