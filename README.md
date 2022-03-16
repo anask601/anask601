@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anask601&label=Profile%20views&color=0e75b6&style=flat" alt="anask601" /> </p>
 
-- 🔭 I’m currently working on **Food order app**
+- 🔭 I’m currently working on **Movie App On React-Redux**
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React js, Redux**
 
