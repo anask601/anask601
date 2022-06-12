@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Movie App On React-Redux**
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React js, Redux**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React js, Redux, Angular**
 
 - 📫 How to reach me **anas4engg@gmail.com**
 
