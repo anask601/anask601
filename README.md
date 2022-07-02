@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/iamcoderanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamcoderanas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anas4engg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas4engg" height="30" width="40" /></a>
+<a href="mailto: anas4engg@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="anas4engg" height="45" width="45" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
