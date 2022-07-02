@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anask601&label=Profile%20views&color=0e75b6&style=flat" alt="anask601" /> </p>
 
-- 🔭 I’m currently working on **ISC**
+- 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="https://ischoolconnect.com/en/">@Extentia</a></strong>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React js, Redux, Angular**
+- 🔭 I’m currently working on **The Light Of Truth** &nbsp; <a href="#" target="_blank">TLOT</a>
 
-- 📫 How to reach me **anas4engg@gmail.com**
+- 🌗 Checkout my <a target="_blank"  href="http://contact-app-nine.vercel.app/">Contact APP</a> in `Pure Vanilla JavaScript`
+
+- 👨‍💻 Most of my projects are available on `Anas-khan` <a target="_blank"  href="https://github.com/anask601">Github</a>
+
+- 💬 Ping me about <strong>Web Development, </strong>Lets grow together
+
+- 📫 How to reach me Raise a issue or see my social handles below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
