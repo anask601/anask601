@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anask601&label=Profile%20views&color=0e75b6&style=flat" alt="anask601" /> </p>
 
-- 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="https://ischoolconnect.com/en/">@Extentia</a></strong>
+- 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="https://ischoolconnect.com/en/">@IschoolConnect</a></strong>
 
 - 🔭 I’m currently working on **The Light Of Truth** &nbsp; <a href="#" target="_blank">TLOT</a>
 
