@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anas khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anask601&label=Profile%20views&color=0e75b6&style=flat" alt="anask601" /> </p>
+<p align="left">
+<a target="_blank"  href="https://www.linkedin.com/in/anas4engg/">
+<img src="https://img.shields.io/badge/%40anas4engg-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/anas4engg/" alt="LinkedIn Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=anask601&label=Profile%20views&color=0e75b6&style=flat" alt="anask601" /> 
+</p>
 
 - 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="https://ischoolconnect.com/en/">@IschoolConnect</a></strong>
 
