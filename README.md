@@ -9,7 +9,7 @@
 
 - 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="https://ischoolconnect.com/en/">@IschoolConnect</a></strong>
 
-- 🔭 I’m currently working on **The Light Of Truth** &nbsp; <a href="#" target="_blank">TLOT</a>
+- 🔭 I’m currently working on **Banking website** &nbsp; <a href="#" target="_blank">Banking website</a>
 
 - 🌗 Checkout my <a target="_blank"  href="http://contact-app-nine.vercel.app/">Contact APP</a> in `Pure Vanilla JavaScript`
 
