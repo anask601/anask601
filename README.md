@@ -70,7 +70,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anask601&theme=codeSTACKr&hide_border=true&border_radius=5&mode=weekly&type=png" alt="anask601" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anask601&theme=codeSTACKr&border_radius=5&mode=weekly&type=png" alt="anask601" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anask601&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="anask601" width="400"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=anask601&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=codeSTACKr" alt="anask601" width="400"/></p>
