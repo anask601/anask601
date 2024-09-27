@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
-<h3 align="center">A passionate frontend engineer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anas4engg/" target="_blank">
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=anask601&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 💻 I'm a Frontend Developer at <strong><a href="https://ischoolconnect.com/en/" target="_blank">@IschoolConnect</a></strong>
+- 💻 I'm a Software Engineer at <strong><a href="https://www.webmd.com/" target="_blank">@WebMd</a></strong>
 - 🔭 I’m currently working on **Tweetverse Website**
 - 🌗 Check out my <a href="http://contact-app-nine.vercel.app/" target="_blank">Contact APP</a> in `Pure Vanilla JavaScript`
 - 👨‍💻 Most of my projects are available on my <a href="https://github.com/anask601" target="_blank">GitHub</a> profile
