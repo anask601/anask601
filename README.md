@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=anask601&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 💻 I'm a Software Engineer at <strong><a href="https://www.webmd.com/" target="_blank">@WebMd</a></strong>
+- 💻 I'm a Software Engineer at <strong><a href="https://www.webmd.com/" target="_blank">@WebMd</a> base in US </strong>
 - 🔭 I’m currently working on **Tweetverse Website**
 - 🌗 Check out my <a href="http://contact-app-nine.vercel.app/" target="_blank">Contact APP</a> in `Pure Vanilla JavaScript`
 - 👨‍💻 Most of my projects are available on my <a href="https://github.com/anask601" target="_blank">GitHub</a> profile
